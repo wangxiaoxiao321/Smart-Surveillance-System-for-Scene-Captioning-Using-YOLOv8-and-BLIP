@@ -259,7 +259,7 @@ If you use this code in academic work, please cite:
 
 * **Author:** Wang Xiaoqiao
 * **Email:** [zjwxq6602195@163.com](mailto:zjwxq6602195@163.com)
-* **GitHub:** [[https://github.com/yourusername/Smart-Surveillance-System](https://github.com/yourusername/Smart-Surveillance-System](https://github.com/wangxiaoxiao321/Smart-Surveillance-System-with-Scene-Captioning-with-YOLOv8-and-BLIP-Modelss))
+* **GitHub:** [[https://github.com/yourusername/Smart-Surveillance-System](https://github.com/yourusername/Smart-Surveillance-System]
 
 Feel free to open Issues or submit Pull Requests to help improve this project!
 
