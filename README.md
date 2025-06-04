@@ -245,7 +245,7 @@ This project is licensed under the **MIT License**; see `LICENSE` for details.
 If you use this code in academic work, please cite:
 
 ```bibtex
-@article{YourName2025SmartSurveillance,
+@article{Wang Xiaoqiao 2025 Taylor's University,
   title={Smart Surveillance System for Scene Captioning Using YOLOv8 and BLIP},
   author={Wang Xiaoqiao},
   journal={IEEE},
