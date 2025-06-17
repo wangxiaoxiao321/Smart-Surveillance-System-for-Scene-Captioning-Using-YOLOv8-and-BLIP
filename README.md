@@ -171,7 +171,7 @@ To run on your local machine (assuming you have an NVIDIA GPU with CUDA):
 
 If you do not have a local GPU, you can run everything on Google Colab:
 
-
+https://drive.google.com/drive/folders/1YhH-KXNFYWVBhb-7KrsYyb7tHO8kIeEO?usp=drive_link 
 The above is a shared project I created on Colab, including test videos, test code, original models, and saved effects videos after testing.
 
 1. Click the “Open in Colab” button below to open `demo_colab.ipynb` in Colab:
